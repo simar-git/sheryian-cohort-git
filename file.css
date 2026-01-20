@@ -16,4 +16,5 @@ button {
   padding: 5px 50px;
   background-color: beige;
   color: black;
+  font-weight: bold;
 }
