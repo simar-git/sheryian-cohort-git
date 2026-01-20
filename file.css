@@ -12,6 +12,13 @@ body {
   align-items: center;
   justify-content: center;
 }
+.button1 {
+  padding: 5px 50px;
+  background-color: beige;
+  color: black;
+  font-weight: bold;
+}
+
 button {
   padding: 5px 50px;
   background-color: brown;
